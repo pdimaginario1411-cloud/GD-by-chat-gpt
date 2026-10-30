@@ -1,0 +1,26 @@
+LEEME — GD BY CHAT GPT
+=======================
+
+¡Bienvenido a GD by chat gpt!
+
+Esta es una aplicación experimental creada por Imaginario con ayuda de ChatGPT.
+
+INFORMACIÓN
+- Proyecto: GD by chat gpt
+- Versión: 1.0 Alpha
+- Autor del proyecto: Imaginario
+- Créditos: Desarrollado con ayuda de ChatGPT | Probado por Imaginario
+
+INSTALACIÓN
+1. Descarga el APK desde la sección indicada por el creador.
+2. Antes de instalarlo, comprueba que el archivo provenga del repositorio o canal oficial del proyecto.
+3. Android puede mostrar advertencias al instalar aplicaciones fuera de Play Store. Una advertencia no demuestra por sí sola que el archivo sea malicioso, pero tampoco garantiza que sea seguro. Instálalo solo si confías en su origen.
+
+AVISO
+Esta aplicación es un proyecto independiente y experimental. No es una aplicación oficial de Geometry Dash ni está afiliada con RobTop Games u OpenAI.
+Los nombres y marcas de terceros pertenecen a sus respectivos titulares.
+
+LICENCIA
+Consulta el archivo LICENSE de este repositorio para conocer los permisos y restricciones de uso.
+
+¡Gracias por probar GD by chat gpt!
